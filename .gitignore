@@ -1,0 +1,70 @@
+# Python-specific ignores
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.dylib
+*.egg
+*.eggs
+*.manifest
+*.spec
+*.zip
+
+# Virtual environments
+env/
+jwtenv/
+venv/
+ENV/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE or editor configurations
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+*.tgz
+*.gz
+*.tar
+*.zip
+*.rar
+
+# Output files (such as PDFs, reports, etc.)
+output/
